@@ -11,7 +11,6 @@ https://user-images.githubusercontent.com/78225894/140179175-155352b4-f11b-4406-
   - [O que foi desenvolvido](#o-que-foi-desenvolvido)
   - [Desenvolvimento](#desenvolvimento)
 - [Instruções para rodar o projeto](#instruções-para-rodar-o-projeto)
-- [Requisitos do projeto](#requisitos-do-projeto)
   - [Lista de requisitos](#lista-de-requisitos)
     - [1 - Crie o endpoint GET /talker](#1---crie-o-endpoint-get-talker)
     - [2 - Crie o endpoint GET /talker/:id](#2---crie-o-endpoint-get-talkerid)
