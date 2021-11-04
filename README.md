@@ -1,4 +1,4 @@
-# Boas vindas ao repositório do projeto Node CRUD Api!
+# Boas vindas ao repositório do projeto NodeJs CRUD Api!
 
 https://user-images.githubusercontent.com/78225894/140179175-155352b4-f11b-4406-b2e3-06277c38a388.mp4
 
