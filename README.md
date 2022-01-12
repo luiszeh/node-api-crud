@@ -517,3 +517,5 @@ Uma API de um CRUD (**C**reate, **R**ead, **U**pdate e **D**elete) de palestrant
 - Caso nenhuma pessoa palestrante satisfaça a busca, o endpoint deve retornar o `status 200` e um array vazio.
 
 ---
+
+* Projeto proposto pela <a href="https://www.betrybe.com/">Trybe</a> e requisitos desenvolvidos por <a href="https://www.linkedin.com/in/luisffg/">Luis Fernando</a>
